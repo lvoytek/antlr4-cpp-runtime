@@ -1,11 +1,11 @@
 # [ANTLR4 C++ runtime](https://github.com/adeharo9/antlr4-cpp-runtime)
 
-![version 4.10.0](https://img.shields.io/badge/version-4.10.0-blue "version 4.10.0")
+![version 4.10.1](https://img.shields.io/badge/version-4.10.1-blue "version 4.10.1")
 ![BSD 3-clause license](https://img.shields.io/badge/license-BSD%203--clause-green "BSD 3-clause license")
 
-This project holds a copy of the [ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/v4.10.0/runtime/Cpp) as a standalone library, in order to be imported and to be linked to by means of CMake targets.
+This project holds a copy of the [ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/v4.10.1/runtime/Cpp) as a standalone library, in order to be imported and to be linked to by means of CMake targets.
 
-The source code under the `runtime/src` directory comes directly from the [official ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/v4.10.0/runtime/Cpp).
+The source code under the `runtime/src` directory comes directly from the [official ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/v4.10.1/runtime/Cpp).
 
 This version of the ANTLR4 C++ runtime **is intended to**:
 
@@ -40,6 +40,7 @@ Tag versions correspond to those on the [official ANTLR4 repository](https://git
 - [4.9.2](https://github.com/lvoytek/antlr4-cpp-runtime/tree/4.9.2)
 - [4.9.3](https://github.com/lvoytek/antlr4-cpp-runtime/tree/4.9.3)
 - [4.10.0](https://github.com/lvoytek/antlr4-cpp-runtime/tree/4.10.0)
+- [4.10.1](https://github.com/lvoytek/antlr4-cpp-runtime/tree/4.10.1)
 
 ## Dependencies
 
