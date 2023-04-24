@@ -1,11 +1,11 @@
 # [ANTLR4 C++ runtime](https://github.com/adeharo9/antlr4-cpp-runtime)
 
-![version 4.9.1](https://img.shields.io/badge/version-4.9.1-blue "version 4.9.1")
+![version 4.9.2](https://img.shields.io/badge/version-4.9.2-blue "version 4.9.2")
 ![BSD 3-clause license](https://img.shields.io/badge/license-BSD%203--clause-green "BSD 3-clause license")
 
-This project holds a copy of the [ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/4.9.1/runtime/Cpp) as a standalone library, in order to be imported and to be linked to by means of CMake targets.
+This project holds a copy of the [ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/4.9.2/runtime/Cpp) as a standalone library, in order to be imported and to be linked to by means of CMake targets.
 
-The source code under the `runtime/src` directory comes directly from the [official ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/4.9.1/runtime/Cpp).
+The source code under the `runtime/src` directory comes directly from the [official ANTLR4 C++ runtime](https://github.com/antlr/antlr4/tree/4.9.2/runtime/Cpp).
 
 This version of the ANTLR4 C++ runtime **is intended to**:
 
@@ -20,11 +20,13 @@ This version of the ANTLR4 C++ runtime **is not intended to**:
 
 ## Table of contents
 
-1. [Supported versions](#supported-versions)
-2. [Dependencies](#dependencies)
-3. [Installation](#installation)
-4. [Build](#build)
-    1. [CMake](#cmake)
+- [ANTLR4 C++ runtime](#antlr4-c-runtime)
+  - [Table of contents](#table-of-contents)
+  - [Supported versions](#supported-versions)
+  - [Dependencies](#dependencies)
+  - [Installation](#installation)
+  - [Build](#build)
+    - [CMake](#cmake)
 
 ## Supported versions
 
@@ -35,6 +37,7 @@ Tag versions correspond to those on the [official ANTLR4 repository](https://git
 - [4.8](https://github.com/adeharo9/antlr4-cpp-runtime/tree/4.8)
 - [4.9](https://github.com/adeharo9/antlr4-cpp-runtime/tree/4.9)
 - [4.9.1](https://github.com/adeharo9/antlr4-cpp-runtime/tree/4.9.1)
+- [4.9.2](https://github.com/lvoytek/antlr4-cpp-runtime/tree/4.9.2)
 
 ## Dependencies
 
